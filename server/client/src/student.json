@@ -1,0 +1,32 @@
+
+ [
+     {
+        "studentId" : 1,
+        "studentName" : "Varun Kumar",
+        "Teacher" : ["amit"],
+        "attendace" : []
+
+     },
+     {
+        "studentId" : 2,
+        "studentName" : "Ravi Bist",
+        "Teacher" : ["amit"],
+        "attendace" : []
+
+     },
+     {
+        "studentId" : 3,
+        "studentName" : "Ashu Pathak",
+        "Teacher" : ["amit"],
+        "attendace" : []
+
+     },
+     {
+        "studentId" : 4,
+        "studentName" : "Ram Das",
+        "Teacher" : [],
+        "attendace" : []
+
+     }
+
+ ]
